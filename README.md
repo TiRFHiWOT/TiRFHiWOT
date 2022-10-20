@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TiRFHiWOT
+- 👀 I’m interested in working with you and learning in the processes.
+- 🌱 I’m currently learning html, css and java script.
+- 📫 You can reach me @ azromjr@gmail.com.

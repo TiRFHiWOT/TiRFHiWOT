@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TiRFHiWOT
-- 👀 I’m interested in working with you and learning in the processes.
-- 🌱 I’m currently learning html, css and java script.
+- 👋 Hi, I’m TiRFHiWOT
+- 👀 I’m a frontend developer interested in working with you and learning in the processes.
+- 🌱 I’m currently working on a next.js project.
 - 📫 You can reach me @ azromjr@gmail.com.
